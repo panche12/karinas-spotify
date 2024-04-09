@@ -5,4 +5,4 @@ As one of my first personal projects, I wanted to download my own Spotify data a
 After receiving all the relevant downloads of Karina's Spotify data, I converted the JSON files to CSV.
 I then uploaded each file to Google Sheets and combined all files of data into one large sheet. This came to a staggering total of 43,767 rows (after cleaning the data)!
 
-You can see the spreadsheet (here)[https://docs.google.com/spreadsheets/d/1x73eIN_c2P6Nw-ASdNACYE_e-DNZcNBKP-CWkHB2WFE/edit#gid=1663538200]. 
+You can see the spreadsheet [here](https://docs.google.com/spreadsheets/d/1x73eIN_c2P6Nw-ASdNACYE_e-DNZcNBKP-CWkHB2WFE/edit#gid=1663538200). 
