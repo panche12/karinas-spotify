@@ -23,6 +23,6 @@ For more information on understanding Spotify data, refer to this [page](https:/
 
 <img width="819" alt="Screenshot 2024-04-09 at 5 51 32 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/999f036f-be16-49ca-8a0c-d1734101fa1c">
 
-### Converting miliseconds -> seconds -> minutes 
+#### Converting miliseconds -> seconds -> minutes 
 
 
