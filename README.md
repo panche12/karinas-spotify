@@ -6,3 +6,4 @@ After receiving all the relevant downloads of Karina's Spotify data, I converted
 I then uploaded each file to Google Sheets and combined all files of data into one large sheet. This came to a staggering total of 43,767 rows (after cleaning the data)!
 
 You can view the spreadsheet [here](https://docs.google.com/spreadsheets/d/1x73eIN_c2P6Nw-ASdNACYE_e-DNZcNBKP-CWkHB2WFE/edit#gid=1663538200). 
+<img width="1460" alt="Screenshot 2024-04-09 at 5 36 44 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/0c1e8935-fe23-424f-bd63-6303d4b986cb">
