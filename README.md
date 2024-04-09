@@ -5,11 +5,11 @@ As one of my first personal projects, I wanted to download my own Spotify data a
 After receiving all the relevant downloads of Karina's Spotify data, I converted the JSON files to CSV files.
 
 _These separate files could be seen as "streamhistory_0", "streamhistory_1", "streamhistory_2", "streamhistory_3", 
-"streamhistory_4" on the spreadsheet below._ 
+"streamhistory_4" in the spreadsheet below._ 
 
 I then uploaded each file to Google Sheets and combined all files of data into one large sheet. This came to a staggering total of 43,767 rows (after cleaning the data)!
 
-_"allstream_history" shows all of the combined data on the spreadsheet below._
+_"allstream_history" shows all of the combined data in the spreadsheet below._
 
 You can view the spreadsheet in its entirety [here](https://docs.google.com/spreadsheets/d/1x73eIN_c2P6Nw-ASdNACYE_e-DNZcNBKP-CWkHB2WFE/edit#gid=1663538200). 
 
