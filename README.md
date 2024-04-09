@@ -11,7 +11,7 @@ I then uploaded each file to Google Sheets and combined all files of data into o
 
 _"allstream_history" shows all of the combined data in the spreadsheet below._
 
-You can view the spreadsheet in its entirety [here](https://docs.google.com/spreadsheets/d/1x73eIN_c2P6Nw-ASdNACYE_e-DNZcNBKP-CWkHB2WFE/edit#gid=1663538200). 
+You can view the spreadsheet in its entirety [here](https://docs.google.com/spreadsheets/d/1x73eIN_c2P6Nw-ASdNACYE_e-DNZcNBKP-CWkHB2WFE/edit#gid=1663538200).
 
 The data that Spotify delivered consisted of:
   - Date and time of when each stream ended (in UTC) - "**endTime**"
@@ -22,4 +22,7 @@ The data that Spotify delivered consisted of:
 For more information on understanding Spotify data, refer to this [page](https://support.spotify.com/us/article/understanding-my-data/).
 
 <img width="819" alt="Screenshot 2024-04-09 at 5 51 32 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/999f036f-be16-49ca-8a0c-d1734101fa1c">
+
+Converting miliseconds -> seconds -> minutes 
+
 
