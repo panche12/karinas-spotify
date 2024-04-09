@@ -19,6 +19,6 @@ The data that Spotify delivered consisted of:
   - Name of music track - "**trackName**"
   - How many miliseconds the track was listened to - "**msPlayed**"
 
-For more information on understanding Spotify data, refer to this [page](https://support.spotify.com/us/article/understanding-my-data/)
+For more information on understanding Spotify data, refer to this [page](https://support.spotify.com/us/article/understanding-my-data/).
 
 <img width="1459" alt="Screenshot 2024-04-09 at 5 36 44 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/b179bac7-12e6-4bcd-89b9-cd5902250ed7">
