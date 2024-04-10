@@ -29,4 +29,6 @@ For more information on understanding Spotify data, refer to this [page](https:/
 #### Converting seconds -> minutes
 <img width="1021" alt="Screenshot 2024-04-09 at 8 20 29 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/62f34031-5583-4347-8ef5-18bc23bd24c0">
 
+<img width="1445" alt="Screenshot 2024-04-09 at 8 24 01 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/aff7bcc2-d730-4c1d-8b08-70391e2b66ad">
+
 
