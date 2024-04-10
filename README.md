@@ -13,7 +13,7 @@ _"allstream_history" shows all of the combined data in the spreadsheet below._
 
 You can view the spreadsheet in its entirety [here](https://docs.google.com/spreadsheets/d/1x73eIN_c2P6Nw-ASdNACYE_e-DNZcNBKP-CWkHB2WFE/edit#gid=1663538200).
 
-The data that Spotify delivered consisted of:
+The data Spotify delivered consists of:
   - Date and time of when each stream ended (in UTC) - "**endTime**"
   - Artist name of music track - "**artistName**"
   - Name of music track - "**trackName**"
