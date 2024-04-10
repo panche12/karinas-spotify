@@ -4,7 +4,7 @@ As one of my first personal projects, I wanted to download my own Spotify data a
 
 I showed Karina how she can download her Spotify data, and she received the zip folder couple days later. Karina's data ranges from March 21, 2023 to March 22, 2024.
 
-After receiving all the relevant downloads of Karina's Spotify data, I converted the JSON files to CSV files.
+After receiving all the relevant downloads of her data, I converted the JSON files to CSV files.
 
 _These separate files could be seen as "streamhistory_0", "streamhistory_1", "streamhistory_2", "streamhistory_3", 
 "streamhistory_4" as several sheets in the spreadsheet below._ 
@@ -39,6 +39,7 @@ For more information on understanding Spotify data, refer to this [page](https:/
 After having all the data combined into one sheet, I wanted to make a pivot table to summarize the data on allstream_history. 
 
 While I was analyzing allstream_history, I realized that there were possibilities of different songs having the same title under distinct artists. The pivot table helped me find which song titles were shared between different singers. 
+Those song titles are highlighted.
 <img width="863" alt="Screenshot 2024-04-09 at 9 32 01 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/37a0d8f1-dfff-4ecc-be66-10f8554d7c42">
 _ASTRO, R5, and The Vamps all have a song titled "All Night"._
 
@@ -52,6 +53,8 @@ The pivot table consists of:
 
 ### Sheet: Pivot Table of all_streamhistory
 <img width="1243" alt="Screenshot 2024-04-09 at 9 51 34 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/cdd32adf-aa8d-491e-9581-19c27c2958dc">
+
+
 
 
 
