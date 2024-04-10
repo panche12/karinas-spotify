@@ -7,7 +7,7 @@ I showed Karina how she can download her Spotify data, and she received the zip 
 After receiving all the relevant downloads of Karina's Spotify data, I converted the JSON files to CSV files.
 
 _These separate files could be seen as "streamhistory_0", "streamhistory_1", "streamhistory_2", "streamhistory_3", 
-"streamhistory_4" in the spreadsheet below._ 
+"streamhistory_4" as several sheets in the spreadsheet below._ 
 
 I then uploaded each file to Google Sheets and combined all files of data into one large sheet. This came to a staggering total of 43,767 rows (after cleaning the data)!
 
@@ -50,7 +50,9 @@ The pivot table consists of:
 - Sum of minutes played from each song
 - Amount of times each song has been played
 
+### Sheet: Pivot Table of all_streamhistory
 <img width="1243" alt="Screenshot 2024-04-09 at 9 51 34 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/cdd32adf-aa8d-491e-9581-19c27c2958dc">
+
 
 
 
