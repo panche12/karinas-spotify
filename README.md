@@ -55,9 +55,10 @@ The pivot table consists of:
 ### Sheet: Pivot Table of all_streamhistory
 <img width="1243" alt="Screenshot 2024-04-09 at 9 51 34 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/cdd32adf-aa8d-491e-9581-19c27c2958dc">
 
+
 I then wanted to find the number of times each artist was played as well as the number of their distinct songs that were streamed. 
 
-I also found the total duration played by each artist.
+I also found the total duration played by artist.
 
 <img width="860" alt="Screenshot 2024-04-10 at 3 19 13 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/6eb253e9-73f2-40ba-9539-898895b3cc78">
 
