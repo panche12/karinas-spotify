@@ -2,7 +2,7 @@
 
 As one of my first personal projects, I wanted to download my own Spotify data and dive into my listening habits. After sharing some insights to my friend, Karina, she told me she wanted to take a look at her data as well. I offered to analyze it for her so that she can have a more simplified outlook of her music experience, while I can gain more practice in dealing with large datasets and working through them with Google Sheets, Google BigQuery, and Tableau. It was a win-win!
 
-I showed Karina how she can download her Spotify data, and she received the zip folder couple days later. Karina's data ranges from March 21, 2023 to March 22, 2024.
+I showed Karina how she can download her Spotify data, and she received the zip folder a couple days later. Karina's data ranges from March 21, 2023 to March 22, 2024.
 
 After receiving all the relevant downloads of her data, I converted the JSON files to CSV files.
 
@@ -54,7 +54,7 @@ The pivot table consists of:
 ### Sheet: Pivot Table of all_streamhistory
 <img width="1243" alt="Screenshot 2024-04-09 at 9 51 34 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/cdd32adf-aa8d-491e-9581-19c27c2958dc">
 
-
+I then wanted to 
 
 
 
