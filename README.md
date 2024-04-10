@@ -56,7 +56,7 @@ Those song titles are highlighted.
 _ASTRO, R5, and The Vamps all have a song titled "All Night"._
 
 
-
+### Finding more information 
 I then wanted to find the number of times each artist was played as well as the number of their distinct songs that were streamed. 
 
 I also found the total duration played by artist.
@@ -67,7 +67,12 @@ Below are also the total number of artists, total number of listens, total numbe
 
 <img width="307" alt="Screenshot 2024-04-10 at 3 24 38 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/42fa3832-5dae-4d77-9259-a9f0009d6511">
 
-To calculate these, I 
+To find these answers, I copied and pasted "all_streamhistory" onto a new sheet and did the calculations for the above on the same sheet ("all_streamhistory + more"), grabbing information from the original dataset.
+
+<img width="1464" alt="Screenshot 2024-04-10 at 3 34 48 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/b934364f-8ec9-4fca-9ee6-328cd6546380">
+
+
+
 
 
 
