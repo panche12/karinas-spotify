@@ -41,6 +41,7 @@ After having all the data combined into one sheet, I wanted to make a pivot tabl
 While I was analyzing allstream_history, I realized that there were possibilities of different songs having the same title under distinct artists. The pivot table helped me find which song titles were shared between different singers. 
 Those song titles are highlighted.
 <img width="863" alt="Screenshot 2024-04-09 at 9 32 01 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/37a0d8f1-dfff-4ecc-be66-10f8554d7c42">
+
 _ASTRO, R5, and The Vamps all have a song titled "All Night"._
 
 The pivot table consists of: 
