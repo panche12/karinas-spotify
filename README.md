@@ -50,6 +50,7 @@ The pivot table consists of:
 - Sum of minutes played from each song
 - Amount of times each song has been played
 
+<img width="1243" alt="Screenshot 2024-04-09 at 9 51 34 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/cdd32adf-aa8d-491e-9581-19c27c2958dc">
 
 
 
