@@ -69,7 +69,7 @@ Below are also the total number of artists, total number of listens, total numbe
 
 To find these answers, I copied and pasted "all_streamhistory" onto a new sheet and did the calculations for the above on the same sheet ("all_streamhistory + more"), grabbing information from the original dataset.
 
-<img width="1464" alt="Screenshot 2024-04-10 at 3 34 48 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/b934364f-8ec9-4fca-9ee6-328cd6546380">
+<img width="1460" alt="Screenshot 2024-04-10 at 5 09 00 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/1fa6dbb9-3ba6-411c-8e1a-bbc911573c5f">
 
 Here's how I did it:
 
