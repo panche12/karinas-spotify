@@ -25,16 +25,16 @@ For more information on understanding Spotify data, refer to this [page](https:/
 
 <img width="819" alt="Screenshot 2024-04-09 at 5 51 32 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/999f036f-be16-49ca-8a0c-d1734101fa1c">
 
-### Converting miliseconds --> seconds
+### Converting miliseconds -> seconds
 <img width="920" alt="Screenshot 2024-04-09 at 8 21 23 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/2e09a7e9-a021-4d95-90a7-f0b9352e23f8">
 
-### Converting seconds --> minutes
+### Converting seconds -> minutes
 <img width="1021" alt="Screenshot 2024-04-09 at 8 20 29 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/62f34031-5583-4347-8ef5-18bc23bd24c0">
 
 ### Sheet: allstream_history
 <img width="1462" alt="Screenshot 2024-04-09 at 8 27 52 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/78b12fd5-80e6-49f7-b22d-555d87b731c0">
 
-### Pivot Tables
+### Pivot Table
 
 After having all the data combined into one sheet, I wanted to make a pivot table to summarize the data on allstream_history. 
 
