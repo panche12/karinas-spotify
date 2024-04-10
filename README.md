@@ -1,4 +1,5 @@
 # Karina's Spotify
+<img width="139" alt="Screenshot 2024-04-10 at 6 50 15 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/8c254e6e-9fe4-4238-826c-b7925b816ce6">
 
 As one of my first personal projects, I wanted to download my own Spotify data and dive into my listening habits. After sharing some insights to my friend, Karina, she told me she wanted to take a look at her data as well. I offered to analyze it for her so that she can have a more simplified outlook of her music experience, while I can gain more practice in dealing with large datasets and working through them with Google Sheets, writing SQL queries with Google BigQuery, and visualizing with Tableau. It was a win-win!
 
@@ -78,10 +79,10 @@ The COUNTIF function allows me to count the number of times the value in H2 ("Ta
 Double-clicking the blue circle on the lower-right corner of the cell allowed me to autofill the column. The same formula is used with their respective criterion (H3 for FIFTY FIFTY, H4 for charlieonnafriday, etc.) This helped me calculate the amount of times each artist was streamed. 
 <img width="941" alt="Screenshot 2024-04-10 at 5 17 51 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/a84a8948-c77c-4959-8817-68f26cd62f7a">
 
-The COUNTUNIQUEIFS function returns the number of tracks Karina listened to by the respective artists. This function counts the number of unique values, in this case the distinct number of tracks, that meet multiple criteria, which are the **artistName** and **trackName**. 
+The COUNTUNIQUEIFS function returns the number of tracks Karina listened to by the respective artists. This formula counts the number of unique values, in this case the distinct number of tracks, that meet multiple criteria, which are the artist name in the H column, and the ranges of the **trackName** (C2:C) and **artistName** (B2:B) columns.  
 <img width="1058" alt="Screenshot 2024-04-10 at 5 18 13 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/d68e117f-2821-4f2c-9554-2d8b9769f97a">
 
-
+The SUMIFS function helps me add up the total number of miliseconds, seconds, and minutes that each artist was played in the past year. 
 <img width="1107" alt="Screenshot 2024-04-10 at 5 18 32 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/0c7d1370-1ad5-4223-a924-c4cab31a3cf1">
 
 <img width="1166" alt="Screenshot 2024-04-10 at 5 18 49 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/bca57adf-ec6f-44d2-b740-8dfc8afe5bc1">
