@@ -73,10 +73,25 @@ To find these answers, I copied and pasted "all_streamhistory" onto a new sheet 
 
 Here's how I did it:
 
-<img width="949" alt="Screenshot 2024-04-10 at 5 11 43 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/c1b29f3a-7e2b-4491-9b33-f19be0587a5d">
+<img width="941" alt="Screenshot 2024-04-10 at 5 17 51 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/a84a8948-c77c-4959-8817-68f26cd62f7a">
 
-<img width="1058" alt="Screenshot 2024-04-10 at 5 12 29 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/20da4f6a-1c32-4a5f-83dc-d114da8b3431">
+<img width="1058" alt="Screenshot 2024-04-10 at 5 18 13 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/d68e117f-2821-4f2c-9554-2d8b9769f97a">
 
+<img width="1107" alt="Screenshot 2024-04-10 at 5 18 32 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/0c7d1370-1ad5-4223-a924-c4cab31a3cf1">
+
+<img width="1166" alt="Screenshot 2024-04-10 at 5 18 49 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/bca57adf-ec6f-44d2-b740-8dfc8afe5bc1">
+
+<img width="1237" alt="Screenshot 2024-04-10 at 5 19 14 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/688e1bfc-d352-4c7c-b0a4-d070db90459d">
+
+<img width="1445" alt="Screenshot 2024-04-10 at 5 20 01 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/efc523b6-5bde-4540-84b2-c3ac5c271742">
+
+<img width="1431" alt="Screenshot 2024-04-10 at 5 20 44 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/dc45b30f-a046-413d-b9b2-705f8ae2db93">
+
+<img width="1433" alt="Screenshot 2024-04-10 at 5 21 07 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/8112437f-20d2-4c25-bac3-309a9d7cbd53">
+
+<img width="1434" alt="Screenshot 2024-04-10 at 5 21 24 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/367eaf3f-48c8-483d-81d0-cbd12cffdffd">
+
+<img width="1434" alt="Screenshot 2024-04-10 at 5 21 41 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/9e958727-baf2-400c-a86b-f0da2f246f35">
 
 
 
