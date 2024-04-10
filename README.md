@@ -56,6 +56,7 @@ Those song titles are highlighted.
 _ASTRO, R5, and The Vamps all have a song titled "All Night"._
 
 
+
 I then wanted to find the number of times each artist was played as well as the number of their distinct songs that were streamed. 
 
 I also found the total duration played by artist.
