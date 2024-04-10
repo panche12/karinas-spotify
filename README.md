@@ -71,6 +71,11 @@ To find these answers, I copied and pasted "all_streamhistory" onto a new sheet 
 
 <img width="1464" alt="Screenshot 2024-04-10 at 3 34 48 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/b934364f-8ec9-4fca-9ee6-328cd6546380">
 
+Here's how I did it:
+
+
+
+
 
 
 
