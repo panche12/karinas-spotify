@@ -34,8 +34,22 @@ For more information on understanding Spotify data, refer to this [page](https:/
 
 #### Pivot Tables
 
-After having all the data combined into one sheet, I wanted to make a pivot table to summarize the data.
-The table consists of:
-  - 
+After having all the data combined into one sheet, I wanted to make a pivot table to summarize the data on allstream_history. 
+
+The table consists of: 
+- Track names
+- Artist names
+- Sum of miliseconds played from each song
+- Sum of seconds played from each song
+- Sum of minutes played from each song
+- Amount of times each song has been played
+
+While I was analyzing the data, I realized that there were possibilities of different songs having the same name under their distinct artists. The pivot table helped me find which song titles were shared between different artists. 
+<img width="863" alt="Screenshot 2024-04-09 at 9 32 01 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/37a0d8f1-dfff-4ecc-be66-10f8554d7c42">
+
+ASTRO, R5, and The Vamps all have a song titled, "All Night".
+
+
+
 
 
