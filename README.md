@@ -73,13 +73,14 @@ To find these answers, I copied and pasted "all_streamhistory" onto a new sheet 
 
 Here's how I did it:
 
-The COUNTIF function allowed me to count the number of times the value in H2 ("Taylor Swift") appears in the column B2:B (**artistName**). In this case, B2:B is the range, and H2 is the criterion. This helped me find the count of Taylor Swift streams Karina played in the past year.
+The COUNTIF function allows me to count the number of times the value in H2 ("Taylor Swift") appears in the column B2:B (**artistName**). In this case, B2:B is the range, and H2 is the criterion. This helped me find the count of Taylor Swift streams Karina played in the past year.
 
-Double clicking the 
+Double-clicking the blue circle on the lower-right corner of the cell allowed me to autofill the column. The same formula is used with their respective criterion (H3 for FIFTY FIFTY, H4 for charlieonnafriday, etc.) This helped me calculate the amount of times each artist was streamed. 
 <img width="941" alt="Screenshot 2024-04-10 at 5 17 51 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/a84a8948-c77c-4959-8817-68f26cd62f7a">
 
-
+The COUNTUNIQUEIFS function returns the number of tracks Karina listened to by the respective artists. This function counts the number of unique values, in this case the distinct number of tracks, that meet multiple criteria, which are the **artistName** and **trackName**. 
 <img width="1058" alt="Screenshot 2024-04-10 at 5 18 13 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/d68e117f-2821-4f2c-9554-2d8b9769f97a">
+
 
 <img width="1107" alt="Screenshot 2024-04-10 at 5 18 32 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/0c7d1370-1ad5-4223-a924-c4cab31a3cf1">
 
