@@ -106,7 +106,8 @@ In SQL, I wrote the following query:
 ```
 SELECT DISTINCT trackName, artistName, count(trackName) as amt_times
 FROM karina_spotify
-GROUP BY trackName, artistName;
+GROUP BY trackName, artistName
+ORDER BY trackName;
 ```
 This gave me 2680 results, verifying that there were a total of unique tracks that Karina listened to during March 2023 - March 2024. 
 <img width="1137" alt="Screenshot 2024-04-11 at 12 09 02 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/768879f3-5ff6-466b-a2ed-e59e623c6c9e">
