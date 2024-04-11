@@ -103,7 +103,7 @@ To learn the number of unique tracks that Karina listened to, I used the pivot t
 I used the conditional formatting rule to highlight the cells containing the word "Total" and subtracted that from the amount of rows in the pivot table.
 
 In SQL, I wrote the following query:
-```
+```ruby
 SELECT DISTINCT trackName, artistName, count(trackName) as amt_times
 FROM karina_spotify
 GROUP BY trackName, artistName;
