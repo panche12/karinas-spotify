@@ -83,7 +83,7 @@ The COUNTUNIQUEIFS function returns the number of tracks Karina listened to by t
 
 The SUMIFS function helps me add up the total number of miliseconds, seconds, and minutes that each artist was played in the past year. This formula helps me return the sum of a range depending on multiple criteria. In this case, I was able to find the sum of miliseconds played for Taylor Swift, calculating the msPlayed (from the range C2:C) where the name in artistName (B2:B) is the value of H2 ("Taylor Swift"). 
 
-This formula was used to find the total number of seconds and miliseconds for each artist as well. 
+This formula was used to find the total number of seconds and minutes for each artist as well. 
 <img width="1107" alt="Screenshot 2024-04-10 at 5 18 32 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/0c7d1370-1ad5-4223-a924-c4cab31a3cf1">
 
 <img width="1166" alt="Screenshot 2024-04-10 at 5 18 49 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/bca57adf-ec6f-44d2-b740-8dfc8afe5bc1">
