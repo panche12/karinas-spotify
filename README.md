@@ -82,17 +82,23 @@ The COUNTUNIQUEIFS function returns the number of tracks Karina listened to by t
 <img width="1058" alt="Screenshot 2024-04-10 at 5 18 13 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/d68e117f-2821-4f2c-9554-2d8b9769f97a">
 
 The SUMIFS function helps me add up the total number of miliseconds, seconds, and minutes that each artist was played in the past year. This formula helps me return the sum of a range depending on multiple criteria. In this case, I was able to find the sum of miliseconds played for Taylor Swift, calculating the msPlayed (from the range C2:C) where the name in artistName (B2:B) is the value of H2 ("Taylor Swift"). 
+
+This formula was used to find the total number of seconds and miliseconds for each artist as well. 
 <img width="1107" alt="Screenshot 2024-04-10 at 5 18 32 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/0c7d1370-1ad5-4223-a924-c4cab31a3cf1">
 
 <img width="1166" alt="Screenshot 2024-04-10 at 5 18 49 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/bca57adf-ec6f-44d2-b740-8dfc8afe5bc1">
 
 <img width="1237" alt="Screenshot 2024-04-10 at 5 19 14 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/688e1bfc-d352-4c7c-b0a4-d070db90459d">
 
+To count the total number of artists, I used the COUNTA function to count all the values in column H, which already listed all the distinct artists from the original Spotify dataset. 
 <img width="1445" alt="Screenshot 2024-04-10 at 5 20 01 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/efc523b6-5bde-4540-84b2-c3ac5c271742">
 
+To count the total number of listens, the COUNTA function was used again to count the number of values in column H, which listed all the track names that were streamed in the past year. 
 <img width="1431" alt="Screenshot 2024-04-10 at 5 20 44 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/dc45b30f-a046-413d-b9b2-705f8ae2db93">
 
+SQL
 <img width="1433" alt="Screenshot 2024-04-10 at 5 21 07 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/8112437f-20d2-4c25-bac3-309a9d7cbd53">
+
 
 <img width="1434" alt="Screenshot 2024-04-10 at 5 21 24 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/367eaf3f-48c8-483d-81d0-cbd12cffdffd">
 
