@@ -112,6 +112,13 @@ ORDER BY trackName;
 This gave me 2680 results, verifying that there were a total of unique tracks that Karina listened to during March 2023 - March 2024. 
 <img width="1137" alt="Screenshot 2024-04-11 at 12 09 02 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/768879f3-5ff6-466b-a2ed-e59e623c6c9e">
 
+I could also use this following query to get a more direct result:
+```
+SELECT COUNT(DISTINCT trackName) as total_uniquetracks
+FROM karina_spotify
+```
+<img width="637" alt="Screenshot 2024-04-11 at 4 33 54 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/45b2358a-c90b-4dbe-9259-c6a13ae5a011">
+
 To find the total minutes, seconds, and miliseconds, I used the SUM function to add up all the values in their respective D (msPlayed), E (sPlayed), and F (mPLayed) columns.
 <img width="1434" alt="Screenshot 2024-04-10 at 5 21 41 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/9e958727-baf2-400c-a86b-f0da2f246f35">
 <img width="1434" alt="Screenshot 2024-04-10 at 5 21 24 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/367eaf3f-48c8-483d-81d0-cbd12cffdffd">
