@@ -108,6 +108,8 @@ SELECT DISTINCT trackName, artistName, count(trackName) as amt_times
 FROM karina_spotify
 GROUP BY trackName, artistName;
 ```
+This gave me 2680 results, verifying that there were a total of unique tracks that Karina listened to during March 2023 - March 2024. 
+<img width="1137" alt="Screenshot 2024-04-11 at 12 09 02 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/768879f3-5ff6-466b-a2ed-e59e623c6c9e">
 
 To find the total minutes, seconds, and miliseconds, I used the SUM function to add up all the values in their respective D (msPlayed), E (sPlayed), and F (mPLayed) columns.
 <img width="1434" alt="Screenshot 2024-04-10 at 5 21 41 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/9e958727-baf2-400c-a86b-f0da2f246f35">
