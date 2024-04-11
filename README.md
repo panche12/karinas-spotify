@@ -98,7 +98,16 @@ To count the total number of artists, I used the COUNTA function to count all th
 To count the total number of listens, the COUNTA function was used again to count the number of values in column H, which listed all the track names that were streamed in the past year. 
 <img width="1431" alt="Screenshot 2024-04-10 at 5 20 44 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/dc45b30f-a046-413d-b9b2-705f8ae2db93">
 
-SQL
+To learn the number of unique tracks that Karina listened to, I used the pivot table I created on Pivot Table of all_streamhistory and SQL to verify my calculations. 
+
+I used the conditional formatting rule to highlight the cells containing the word "Total" and subtracted that from the amount of rows in the pivot table.
+
+In SQL, I wrote the following query:
+```
+SELECT DISTINCT trackName, artistName, count(trackName) as amt_times
+FROM karina_spotify
+GROUP BY trackName, artistName;
+```
 
 To find the total minutes, seconds, and miliseconds, I used the SUM function to add up all the values in their respective D (msPlayed), E (sPlayed), and F (mPLayed) columns.
 <img width="1434" alt="Screenshot 2024-04-10 at 5 21 41 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/9e958727-baf2-400c-a86b-f0da2f246f35">
