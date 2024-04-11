@@ -97,12 +97,15 @@ To count the total number of listens, the COUNTA function was used again to coun
 <img width="1431" alt="Screenshot 2024-04-10 at 5 20 44 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/dc45b30f-a046-413d-b9b2-705f8ae2db93">
 
 SQL
+
+To find the total minutes, seconds, and miliseconds, I used the SUM function to add up all the values in their respective D (msPlayed), E (sPlayed), and F (mPLayed) columns.
+<img width="1434" alt="Screenshot 2024-04-10 at 5 21 41 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/9e958727-baf2-400c-a86b-f0da2f246f35">
+<img width="1434" alt="Screenshot 2024-04-10 at 5 21 24 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/367eaf3f-48c8-483d-81d0-cbd12cffdffd">
 <img width="1433" alt="Screenshot 2024-04-10 at 5 21 07 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/8112437f-20d2-4c25-bac3-309a9d7cbd53">
 
 
-<img width="1434" alt="Screenshot 2024-04-10 at 5 21 24 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/367eaf3f-48c8-483d-81d0-cbd12cffdffd">
 
-<img width="1434" alt="Screenshot 2024-04-10 at 5 21 41 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/9e958727-baf2-400c-a86b-f0da2f246f35">
+
 
 
 
