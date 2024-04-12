@@ -49,7 +49,7 @@ The pivot table consists of:
 - Sum of minutes played from each song
 - Amount of times each song has been played
 
-While I was analyzing allstream_history, I realized that there were possibilities of different songs having the same title under distinct artists. The pivot table helped me find which song titles were shared between different singers. 
+While I was analyzing "allstream_history", I realized that there were possibilities of different songs having the same title by distinct artists. The pivot table helped me find which song titles were shared between different singers. 
 Those song titles are highlighted.
 <img width="863" alt="Screenshot 2024-04-09 at 9 32 01 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/37a0d8f1-dfff-4ecc-be66-10f8554d7c42">
 
@@ -142,6 +142,7 @@ LIMIT 50;
 
 I then saved the results to the spreadsheet under the sheet name, "Top 50 Artists"
 
+### Sheet: Top 50 Artists
 <img width="851" alt="Screenshot 2024-04-12 at 12 50 12 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/f3a07e73-363b-4ac3-b38e-c241f4f399da">
 
 
@@ -157,6 +158,7 @@ LIMIT 100;
 
 This is saved to the same spreadsheet under the sheet name, "Top 100 Songs"
 
+### Sheet: Top 100 Songs
 <img width="1060" alt="Screenshot 2024-04-12 at 12 49 16 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/b2a3b287-e61c-4f4e-9208-4894490c27a3">
 
 
