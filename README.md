@@ -117,12 +117,33 @@ I could also use this following query to get a more direct result:
 SELECT COUNT(DISTINCT trackName) as total_uniquetracks
 FROM karina_spotify
 ```
+
 <img width="637" alt="Screenshot 2024-04-11 at 4 33 54 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/45b2358a-c90b-4dbe-9259-c6a13ae5a011">
 
 To find the total minutes, seconds, and miliseconds, I used the SUM function to add up all the values in their respective D (msPlayed), E (sPlayed), and F (mPLayed) columns.
 <img width="1434" alt="Screenshot 2024-04-10 at 5 21 41 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/9e958727-baf2-400c-a86b-f0da2f246f35">
 <img width="1434" alt="Screenshot 2024-04-10 at 5 21 24 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/367eaf3f-48c8-483d-81d0-cbd12cffdffd">
 <img width="1433" alt="Screenshot 2024-04-10 at 5 21 07 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/8112437f-20d2-4c25-bac3-309a9d7cbd53">
+
+
+Karina also wanted to know her top artist and songs from her Spotify data. 
+
+
+To do this, I wrote a query to list her artists and songs in descending order by the amount of times they were streamed in total. 
+
+To find the top songs:
+```
+SELECT DISTINCT trackName, COUNT(trackName) AS amt_times
+FROM karina_spotify
+GROUP BY trackname
+ORDER BY amt_times DESC;
+```
+<img width="1389" alt="Screenshot 2024-04-11 at 10 40 25 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/87d0a985-427d-4caf-8ce6-33892a59562d">
+
+I then saved the results to the same spreadsheet and kept only the Top 100 songs.
+
+
+
 
 
 
