@@ -130,6 +130,21 @@ Karina also wanted to know her top artist and songs from her Spotify data.
 
 To do this, I wrote a query to list her artists and songs in descending order by the amount of times they were streamed in total. 
 
+To find the top artists, the number of streams per artist, the number of unique tracks per artist, and the duration played:
+```
+SELECT DISTINCT artistName, COUNT(artistName) as count, COUNT(DISTINCT trackName) as trackCount_distinct, SUM(msPlayed) AS msPlayed, SUM(sPlayed) AS sPlayed, SUM(mPlayed) as mPLayed
+FROM karina_spotify
+GROUP BY artistName
+ORDER BY count DESC
+LIMIT 50;
+```
+<img width="1135" alt="Screenshot 2024-04-12 at 12 48 07 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/d3e5436c-0c90-46e6-ad1f-3fd95363f9a3">
+
+I then saved the results to the spreadsheet under the sheet name, "Top 50 Artists"
+
+<img width="851" alt="Screenshot 2024-04-12 at 12 50 12 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/f3a07e73-363b-4ac3-b38e-c241f4f399da">
+
+
 To find the top songs, number of streams, and duration played:
 ```
 SELECT DISTINCT trackName, artistName, COUNT(trackName) as amt_times, SUM(msPlayed) AS total_msPlayed, SUM(sPlayed) AS total_sPlayed, SUM(mPlayed) as total_mPLayed
@@ -140,7 +155,10 @@ LIMIT 100;
 ```
 <img width="1137" alt="Screenshot 2024-04-12 at 12 27 54 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/39744e95-fbf5-4c8c-a195-7ade371d37d9">
 
-I then saved the results to the same spreadsheet under the sheet name, "Top 100 Songs"
+This is saved to the same spreadsheet under the sheet name, "Top 100 Songs"
+
+<img width="1060" alt="Screenshot 2024-04-12 at 12 49 16 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/b2a3b287-e61c-4f4e-9208-4894490c27a3">
+
 
 
 
