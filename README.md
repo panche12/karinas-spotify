@@ -140,7 +140,7 @@ ORDER BY amt_times DESC;
 ```
 <img width="1389" alt="Screenshot 2024-04-11 at 10 40 25 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/87d0a985-427d-4caf-8ce6-33892a59562d">
 
-I then saved the results to the same spreadsheet and kept only the Top 100 songs.
+I then saved the results to the same spreadsheet and kept only the Top 100 songs, and 
 
 
 
