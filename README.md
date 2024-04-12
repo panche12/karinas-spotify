@@ -128,19 +128,21 @@ To find the total minutes, seconds, and miliseconds, I used the SUM function to 
 
 Karina also wanted to know her top artist and songs from her Spotify data. 
 
-
 To do this, I wrote a query to list her artists and songs in descending order by the amount of times they were streamed in total. 
 
-To find the top songs:
+To find the top songs, number of streams, and duration played:
 ```
-SELECT DISTINCT trackName, COUNT(trackName) AS amt_times
+SELECT DISTINCT trackName, artistName, COUNT(trackName) as amt_times, SUM(msPlayed) AS total_msPlayed, SUM(sPlayed) AS total_sPlayed, SUM(mPlayed) as total_mPLayed
 FROM karina_spotify
-GROUP BY trackname
-ORDER BY amt_times DESC;
+GROUP BY trackName, artistName
+ORDER BY amt_times DESC
+LIMIT 100;
 ```
-<img width="1389" alt="Screenshot 2024-04-11 at 10 40 25 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/87d0a985-427d-4caf-8ce6-33892a59562d">
+<img width="1137" alt="Screenshot 2024-04-12 at 12 27 54 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/39744e95-fbf5-4c8c-a195-7ade371d37d9">
 
-I then saved the results to the same spreadsheet and kept only the Top 100 songs, and 
+I then saved the results to the same spreadsheet under the sheet name, "Top 100 Songs"
+
+
 
 
 
