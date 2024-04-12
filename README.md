@@ -116,7 +116,7 @@ This gave me 2680 results, verifying that there were a total of unique tracks th
 I could also use this following query to get a more direct result:
 ```
 SELECT COUNT(DISTINCT trackName) as total_uniquetracks
-FROM karina_spotify
+FROM karina_spotify;
 ```
 
 <img width="637" alt="Screenshot 2024-04-11 at 4 33 54 PM" src="https://github.com/panche12/karinas-spotify/assets/67511947/45b2358a-c90b-4dbe-9259-c6a13ae5a011">
