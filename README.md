@@ -9,7 +9,7 @@ After receiving all the relevant downloads of her data, I converted the JSON fil
 _These separate files could be seen as "streamhistory_0", "streamhistory_1", "streamhistory_2", "streamhistory_3", 
 "streamhistory_4" as several sheets in the spreadsheet below._ 
 
-I then uploaded each file to Google Sheets and combined all files of data into one large sheet. This came to a staggering total of 43,766 rows (after cleaning the data)!
+I then uploaded each file to Google Sheets and combined all files of data into one large sheet. This came to a total of 43,766 rows (after cleaning the data).
 
 _"allstream_history" shows all of the combined data in the spreadsheet below._
 
